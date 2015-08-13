@@ -1,9 +1,9 @@
-# redirect-server
+# http-redirect-server
 A simple http redirect server in Node.js
 
 ## usage
-    git clone https://github.com/holmwell/redirect-server
-    cd redirect-server
+    git clone https://github.com/holmwell/http-redirect-server
+    cd http-redirect-server
     node server.js
     
     visit http://localhost:30200 to be redirected to holmwell.com
