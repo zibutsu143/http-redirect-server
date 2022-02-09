@@ -1,6 +1,6 @@
 var http = require('http');
 
-var destinationUrl = 'http://holmwell.com';
+var destinationUrl = 'https://storage.googleapis.com/d.kingsforext.com/appsheet/data/Client_5706982/downloads';
 var port = 30200;
 
 var server = http.createServer(function (req, res) {
